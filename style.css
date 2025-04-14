@@ -1,10 +1,10 @@
 body {
      font-family: 'Courier New', monospace;
      text-align: center;
-   margins: 0;
-   padding: 0;
-  background-color: #000;
-  color: #00ff00;
+     margins: 0;
+     padding: 0;
+     background-color: #000;
+     color: #00ff00;
 }
 
 header {
